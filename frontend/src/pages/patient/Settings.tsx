@@ -16,7 +16,7 @@ const Settings: React.FC = () => {
   const { toast } = useToast();
   
   const [personalDetails, setPersonalDetails] = useState({
-    name: user?.name || '',
+    name: user?.name || 'Ram',
     email: user?.email || '',
     phone: '',
     occupation: '',

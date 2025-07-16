@@ -29,7 +29,7 @@ const DoctorDashboard: React.FC = () => {
   const todayAppointments = [
     { 
       id: '1', 
-      patient: 'John Smith', 
+      patient: 'ram Singh', 
       time: '09:00 AM', 
       type: 'Consultation', 
       status: 'completed',
@@ -37,7 +37,7 @@ const DoctorDashboard: React.FC = () => {
     },
     { 
       id: '2', 
-      patient: 'Sarah Johnson', 
+      patient: 'Siddhharth Mehta', 
       time: '10:30 AM', 
       type: 'Follow-up', 
       status: 'completed',
@@ -45,7 +45,7 @@ const DoctorDashboard: React.FC = () => {
     },
     { 
       id: '3', 
-      patient: 'Mike Davis', 
+      patient: 'Raghav Kumar', 
       time: '11:15 AM', 
       type: 'Consultation', 
       status: 'in-progress',
@@ -53,7 +53,7 @@ const DoctorDashboard: React.FC = () => {
     },
     { 
       id: '4', 
-      patient: 'Emily Wilson', 
+      patient: 'Anjali Verma', 
       time: '02:00 PM', 
       type: 'Consultation', 
       status: 'pending',
@@ -61,7 +61,7 @@ const DoctorDashboard: React.FC = () => {
     },
     { 
       id: '5', 
-      patient: 'Robert Brown', 
+      patient: 'Priya Sharma', 
       time: '03:30 PM', 
       type: 'Follow-up', 
       status: 'pending',

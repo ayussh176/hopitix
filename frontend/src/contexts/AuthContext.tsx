@@ -33,9 +33,9 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     
     // Mock users for demo
     const mockUsers = [
-      { id: '1', email: 'patient@demo.com', username: 'patient', phone: '1234567890', role: 'patient', name: 'John Patient' },
-      { id: '2', email: 'doctor@demo.com', username: 'doctor', phone: '0987654321', role: 'doctor', name: 'Dr. Smith' },
-      { id: '3', email: 'assistant@demo.com', username: 'assistant', phone: '1122334455', role: 'assistant', name: 'Jane Assistant' },
+      { id: '1', email: 'patient@demo.com', username: 'patient', phone: '1234567890', role: 'patient', name: 'Ram Kumar' },
+      { id: '2', email: 'doctor@demo.com', username: 'doctor', phone: '0987654321', role: 'doctor', name: 'Dr. Sharma' },
+      { id: '3', email: 'assistant@demo.com', username: 'assistant', phone: '1122334455', role: 'assistant', name: 'Smarth kumar' },
       { id: '4', email: 'pathology@demo.com', username: 'pathology', phone: '5544332211', role: 'pathology', name: 'Lab Tech' }
     ];
 

@@ -22,46 +22,46 @@ const PathologyDashboard: React.FC = () => {
   const testRequests = [
     { 
       id: '1', 
-      patient: 'John Smith', 
+      patient: 'Ram Kumar', 
       testType: 'Complete Blood Count', 
       requestDate: '2024-01-18',
       urgency: 'normal',
       status: 'pending',
-      doctor: 'Dr. Johnson'
+      doctor: 'Dr. Jadhav'
     },
     { 
       id: '2', 
-      patient: 'Sarah Wilson', 
+      patient: 'Samar Singh', 
       testType: 'Liver Function Test', 
       requestDate: '2024-01-18',
       urgency: 'urgent',
       status: 'in-progress',
-      doctor: 'Dr. Smith'
+      doctor: 'Dr. Sharma'
     },
     { 
       id: '3', 
-      patient: 'Mike Davis', 
+      patient: 'Mohan Sharma', 
       testType: 'Lipid Profile', 
       requestDate: '2024-01-17',
       urgency: 'normal',
       status: 'completed',
-      doctor: 'Dr. Brown'
+      doctor: 'Dr. Jadhav'
     },
     { 
       id: '4', 
-      patient: 'Emily Johnson', 
+      patient: 'Anjali Verma', 
       testType: 'Thyroid Function', 
       requestDate: '2024-01-17',
       urgency: 'normal',
       status: 'report-ready',
-      doctor: 'Dr. Wilson'
+      doctor: 'Dr. Sharma'
     }
   ];
 
   const recentUploads = [
-    { patient: 'John Doe', test: 'Blood Sugar', uploadDate: '2024-01-18', type: 'PDF' },
-    { patient: 'Jane Smith', test: 'X-Ray Chest', uploadDate: '2024-01-17', type: 'Image' },
-    { patient: 'Robert Wilson', test: 'ECG Report', uploadDate: '2024-01-17', type: 'PDF' }
+    { patient: 'anjali sharma', test: 'Blood Sugar', uploadDate: '2024-01-18', type: 'PDF' },
+    { patient: 'Jay trivedi', test: 'X-Ray Chest', uploadDate: '2024-01-17', type: 'Image' },
+    { patient: 'yash devedi', test: 'ECG Report', uploadDate: '2024-01-17', type: 'PDF' }
   ];
 
   const todayStats = {

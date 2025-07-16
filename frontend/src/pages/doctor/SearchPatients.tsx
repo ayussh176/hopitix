@@ -21,45 +21,45 @@ const SearchPatients: React.FC = () => {
   const mockPatients = [
     {
       id: 'PAT001',
-      name: 'John Smith',
+      name: 'Ram Kumar',
       age: 45,
       gender: 'Male',
-      phone: '+1-234-567-8901',
-      email: 'john.smith@email.com',
-      address: '123 Main St, City',
+      phone: '+91 12345 67890',
+      email: 'patient@demo.com',
+      address: 'Noida sector 62, Delhi',
       dateOfBirth: '1979-03-15',
       medicalHistory: 'Hypertension, Diabetes',
       allergies: 'Penicillin',
       lastVisit: '2024-01-15',
-      emergencyContact: 'Jane Smith - +1-234-567-8902'
+      emergencyContact: 'Priya Kumar - +91 98765 43210'
     },
     {
       id: 'PAT002',
-      name: 'Sarah Johnson',
+      name: 'radha Singh',
       age: 52,
       gender: 'Female',
       phone: '+1-234-567-8903',
-      email: 'sarah.johnson@email.com',
-      address: '456 Oak Ave, City',
+      email: 'radha@demo.com',
+      address: 'Gurgaon sector 17, Haryana',
       dateOfBirth: '1972-07-22',
       medicalHistory: 'Type 2 Diabetes',
       allergies: 'None',
       lastVisit: '2024-01-10',
-      emergencyContact: 'Mike Johnson - +1-234-567-8904'
+      emergencyContact: 'Mohit singh - +91 12345 67891'
     },
     {
       id: 'PAT003',
-      name: 'Mike Davis',
+      name: 'Mohan Sharma',
       age: 35,
       gender: 'Male',
       phone: '+1-234-567-8905',
-      email: 'mike.davis@email.com',
-      address: '789 Pine Rd, City',
+      email: 'mohan@demo.com',
+      address: 'sant nagar, Delhi',
       dateOfBirth: '1989-11-08',
       medicalHistory: 'None',
       allergies: 'Shellfish',
       lastVisit: '2024-01-18',
-      emergencyContact: 'Lisa Davis - +1-234-567-8906'
+      emergencyContact: 'raj sharma - +91 56789 01234'
     }
   ];
 

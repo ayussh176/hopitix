@@ -30,29 +30,29 @@ const UploadReports: React.FC = () => {
   const [pendingRequests] = useState([
     {
       id: 'REQ001',
-      patient: 'John Smith',
+      patient: 'Ram Singh',
       patientId: 'PAT001',
       testType: 'Complete Blood Count',
       requestDate: '2024-01-18',
-      doctor: 'Dr. Johnson',
+      doctor: 'Dr. Jadhav',
       urgency: 'normal'
     },
     {
       id: 'REQ002',
-      patient: 'Sarah Wilson',
+      patient: 'Siddhharth Mehta',
       patientId: 'PAT002',
       testType: 'Liver Function Test',
       requestDate: '2024-01-18',
-      doctor: 'Dr. Smith',
+      doctor: 'Dr. Sharma',
       urgency: 'urgent'
     },
     {
       id: 'REQ005',
-      patient: 'Robert Brown',
+      patient: 'Raghav Kumar',
       patientId: 'PAT005',
       testType: 'Kidney Function Test',
       requestDate: '2024-01-19',
-      doctor: 'Dr. Wilson',
+      doctor: 'Dr. Kumar',
       urgency: 'normal'
     }
   ]);
