@@ -52,7 +52,7 @@ const PatientDashboard: React.FC = () => {
   ];
 
   const upcomingAppointments = [
-    { doctor: 'Dr. Johnson', specialty: 'Cardiology', date: '2024-01-20', time: '10:00 AM' },
+    { doctor: 'Dr. Jadhav', specialty: 'Cardiology', date: '2024-01-20', time: '10:00 AM' },
     { doctor: 'Lab Test', specialty: 'Pathology', date: '2024-01-22', time: '9:00 AM' }
   ];
 

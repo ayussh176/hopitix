@@ -18,7 +18,7 @@ const MyReports: React.FC = () => {
       testName: 'Complete Blood Count',
       reportDate: '2024-01-15',
       status: 'Available',
-      doctor: 'Dr. Johnson',
+      doctor: 'Dr. Jadhav',
       labName: 'City Pathology Lab',
       reportUrl: '/mock-report-1.pdf'
     },
@@ -27,7 +27,7 @@ const MyReports: React.FC = () => {
       testName: 'Liver Function Test',
       reportDate: '2024-01-10',
       status: 'Available',
-      doctor: 'Dr. Smith',
+      doctor: 'Dr. Sharma',
       labName: 'Metro Lab Services',
       reportUrl: '/mock-report-2.pdf'
     },
@@ -36,7 +36,7 @@ const MyReports: React.FC = () => {
       testName: 'Thyroid Profile',
       reportDate: '2024-01-05',
       status: 'Available',
-      doctor: 'Dr. Brown',
+      doctor: 'Dr. Kumar',
       labName: 'Advanced Diagnostics',
       reportUrl: '/mock-report-3.pdf'
     }
@@ -45,7 +45,7 @@ const MyReports: React.FC = () => {
   const prescriptions = [
     {
       id: '1',
-      doctorName: 'Dr. Johnson',
+      doctorName: 'Dr. Jadhav',
       date: '2024-01-18',
       medicines: ['Paracetamol 500mg', 'Amoxicillin 250mg'],
       diagnosis: 'Fever and throat infection',
@@ -53,7 +53,7 @@ const MyReports: React.FC = () => {
     },
     {
       id: '2',
-      doctorName: 'Dr. Smith',
+      doctorName: 'Dr. Sharma',
       date: '2024-01-12',
       medicines: ['Metformin 500mg', 'Glimepiride 1mg'],
       diagnosis: 'Diabetes management',

@@ -24,10 +24,10 @@ const BookAppointment: React.FC = () => {
   });
 
   const doctors = [
-    { id: '1', name: 'Dr. Smith', specialty: 'Cardiology' },
-    { id: '2', name: 'Dr. Johnson', specialty: 'Neurology' },
-    { id: '3', name: 'Dr. Williams', specialty: 'Orthopedics' },
-    { id: '4', name: 'Dr. Brown', specialty: 'Pediatrics' }
+    { id: '1', name: 'Dr. Sharma', specialty: 'Cardiology' },
+    { id: '2', name: 'Dr. Jadhav', specialty: 'Neurology' },
+    { id: '3', name: 'Dr. Chaudhary', specialty: 'Orthopedics' },
+    { id: '4', name: 'Dr. Rai', specialty: 'Pediatrics' }
   ];
 
   const timeSlots = [

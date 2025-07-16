@@ -8,7 +8,7 @@ const Prescriptions: React.FC = () => {
   const prescriptions = [
     {
       id: '1',
-      doctorName: 'Dr. Johnson',
+      doctorName: 'Dr. Jadhav',
       specialization: 'General Medicine',
       date: '2024-01-18',
       diagnosis: 'Fever and throat infection',
@@ -29,7 +29,7 @@ const Prescriptions: React.FC = () => {
     },
     {
       id: '2',
-      doctorName: 'Dr. Smith',
+      doctorName: 'Dr. Sharma',
       specialization: 'Endocrinology',
       date: '2024-01-12',
       diagnosis: 'Diabetes Type 2 - Routine Management',
@@ -49,7 +49,7 @@ const Prescriptions: React.FC = () => {
     },
     {
       id: '3',
-      doctorName: 'Dr. Brown',
+      doctorName: 'Dr. Kumar',
       specialization: 'Cardiology',
       date: '2024-01-08',
       diagnosis: 'Hypertension',
