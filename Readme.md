@@ -99,9 +99,5 @@ Try the system with demo users:
 - Responds to user lifestyle, nutrition, and mild illness queries
 - Supports feedback loop learning
 
-### Todo:
-- [ ] Add `/ai` directory for Python models
-- [ ] Deploy inference server (FastAPI)
-- [ ] Integrate chat frontend with APIs
 
 ---
