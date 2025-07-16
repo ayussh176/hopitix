@@ -102,7 +102,7 @@ Try the system with demo users:
 ## Screenshot
 
 ### 1. Patient
-![patient](./frontend/screenshot/patient.png)
+![patient](./screenshot/patient.png)
 
 ### 2. Doctor
 ![Doctor](./frontent/screenshot/doctor.png)
