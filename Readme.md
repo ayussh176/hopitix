@@ -99,5 +99,19 @@ Try the system with demo users:
 - Responds to user lifestyle, nutrition, and mild illness queries
 - Supports feedback loop learning
 
+## Screenshot
+
+### 1. Patient
+![patient](./frontend/screenshot/patient.png)
+
+### 2. Doctor
+![Doctor](./frontent/screenshot/doctor.png)
+
+### 3. Assistant
+![assistant](./frontent/screenshot/Assistant.png)
+
+### 3. Pathology
+![Pathology](./frontent/screenshot/pathology.png)
+
 
 ---
