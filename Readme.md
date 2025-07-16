@@ -102,16 +102,16 @@ Try the system with demo users:
 ## Screenshot
 
 ### 1. Patient
-![patient](./screenshot/patient.png)
+![patient](./frontend/public/screenshot/patinet.png)
 
 ### 2. Doctor
-![Doctor](./frontent/screenshot/doctor.png)
+![Doctor](./frontend/public/screenshot/doctor.png)
 
 ### 3. Assistant
-![assistant](./frontent/screenshot/Assistant.png)
+![assistant](./frontend/public/screenshot/Assistant.png)
 
 ### 3. Pathology
-![Pathology](./frontent/screenshot/pathology.png)
+![Pathology](./frontend/public/screenshot/pathology.png)
 
 
 ---
