@@ -61,14 +61,8 @@ const PatientDashboard: React.FC = () => {
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Welcome back, {user?.name}!</h1>
-          <p className="text-gray-600 mt-1">Manage your health journey with AI-powered insights</p>
         </div>
-        <div className="bg-green-50 border border-green-200 rounded-lg p-4">
-          <div className="flex items-center space-x-2">
-            <Heart className="w-5 h-5 text-green-600" />
-            <span className="text-green-800 font-medium">Health Score: 85/100</span>
-          </div>
-        </div>
+        
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

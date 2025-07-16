@@ -27,7 +27,7 @@ const MedicineSubstitutes: React.FC = () => {
       savings: '30%',
       manufacturer: 'Generic Pharma',
       patientId: 'PAT001',
-      patientName: 'John Smith',
+      patientName: 'Onkar Singh',
       status: 'approved'
     },
     { 
@@ -38,7 +38,7 @@ const MedicineSubstitutes: React.FC = () => {
       savings: '25%',
       manufacturer: 'USV Ltd',
       patientId: 'PAT002',
-      patientName: 'Sarah Johnson',
+      patientName: 'Radha Singh',
       status: 'pending'
     },
     { 
@@ -49,7 +49,7 @@ const MedicineSubstitutes: React.FC = () => {
       savings: '40%',
       manufacturer: 'Sun Pharma',
       patientId: 'PAT003',
-      patientName: 'Mike Davis',
+      patientName: 'Mohan Sharma',
       status: 'approved'
     }
   ]);

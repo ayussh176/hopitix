@@ -13,7 +13,7 @@ const Prescriptions: React.FC = () => {
   const [prescriptions] = useState([
     {
       id: 'PRESC001',
-      patientName: 'John Smith',
+      patientName: 'Ram Kumar',
       patientId: 'PAT001',
       date: '2024-01-18',
       diagnosis: 'Hypertension',
@@ -24,7 +24,7 @@ const Prescriptions: React.FC = () => {
     },
     {
       id: 'PRESC002',
-      patientName: 'Sarah Johnson',
+      patientName: 'Sarah sharma',
       patientId: 'PAT002',
       date: '2024-01-17',
       diagnosis: 'Diabetes Management',

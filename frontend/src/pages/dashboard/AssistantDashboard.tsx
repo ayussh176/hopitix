@@ -110,12 +110,12 @@ const AssistantDashboard: React.FC = () => {
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Welcome, {user?.name}!</h1>
-          <p className="text-gray-600 mt-1">Manage appointments and assist Dr. Johnson</p>
+          <p className="text-gray-600 mt-1">Manage appointments and assist Dr. Jadhav</p>
         </div>
         <div className="bg-purple-50 border border-purple-200 rounded-lg p-4">
           <div className="flex items-center space-x-2">
             <ClipboardList className="w-5 h-5 text-purple-600" />
-            <span className="text-purple-800 font-medium">Assigned to: Dr. Johnson</span>
+            <span className="text-purple-800 font-medium">Assigned to: Dr. Jadhav</span>
           </div>
         </div>
       </div>
